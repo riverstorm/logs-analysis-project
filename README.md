@@ -8,6 +8,7 @@ The script contains three database queries, while every query is used to answer 
   <li>Who are the most popular article authors of all time?</li>
   <li>On which days did more than 1% of requests lead to errors?</li>
 </ul>
+The expected output is attached as an example. See statistics.txt file.
 
 ## An Udacity Project
 The project is part of my Udacity course and requires a database file that is not included in this repository.
