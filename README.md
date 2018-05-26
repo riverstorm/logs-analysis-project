@@ -23,7 +23,7 @@ The project is part of my Udacity course and requires a database file that is no
 <ol>
   <li>Import the database to your machine</li>
   <li>Include the databases name on the 4th line of the analyse.py (<i>default: "news"</i>)</li>
-  <li>Run the analyse.py file in your console (e.g. "python analyse.py")</li>
+  <li>Run the analyse.py file in your console (<i>e.g. "python analyse.py"</i>)</li>
   <li>The script now creates the statistics.txt file in the scripts folder. It contains all answers to the questions.</li>
 </ol>
 <br><br>
