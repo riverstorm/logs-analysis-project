@@ -1,5 +1,5 @@
+#!/usr/bin/env python3
 import psycopg2
-from decimal import Decimal
 
 conn = psycopg2.connect("dbname=news")
 cursor = conn.cursor()
